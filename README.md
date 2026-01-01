@@ -1,4 +1,4 @@
-# Live Weather Desktop App 🌦️💖
+# Live Weather Desktop PopUp
 
 A cute **Python project** that shows **live weather notifications** on your desktop with emojis and fun messages! Perfect for beginners who want to learn **APIs, Python functions, and desktop automation**.
 
